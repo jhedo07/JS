@@ -1,0 +1,10 @@
+/* NUMBER GUESSING GAME */
+#num{
+    display: block;
+    text-align: center;
+    font-size: 10em;
+    font-family: Helvetica;
+}
+#guessContainer{
+    text-align: center;
+}
